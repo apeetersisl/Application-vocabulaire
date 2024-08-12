@@ -1,0 +1,40 @@
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.csproj.AssemblyReference.cache
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.AjoutMot.resources
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.ChoixTest.resources
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.MenuPrincipal.resources
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.Properties.Resources.resources
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.Test.resources
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.csproj.GenerateResource.cache
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.csproj.CoreCompileInputs.cache
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\VocUI.exe.config
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\VocUI.exe
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\VocUI.pdb
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\VocLib.dll
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\Dapper.dll
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\VocLib.pdb
+C:\Users\themo\source\repos\VocLib\VocUI\bin\Debug\Dapper.xml
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.csproj.CopyComplete
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.exe
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.pdb
+C:\Users\themo\source\repos\VocLib\VocUI\obj\Debug\VocUI.Statistiques.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\VocUI.exe.config
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\VocUI.exe
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\VocUI.pdb
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\VocLib.dll
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\Dapper.dll
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\VocLib.pdb
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\bin\Debug\Dapper.xml
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.csproj.AssemblyReference.cache
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.AjoutMot.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.ChoixTest.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.MenuPrincipal.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.Properties.Resources.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.Statistiques.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.Test.resources
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.csproj.GenerateResource.cache
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.csproj.CoreCompileInputs.cache
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.csproj.CopyComplete
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.exe
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocUI\obj\Debug\VocUI.pdb

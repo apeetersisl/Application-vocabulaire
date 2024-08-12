@@ -1,0 +1,18 @@
+C:\Users\themo\source\repos\VocLib\VocLib\bin\Debug\VocLib.dll
+C:\Users\themo\source\repos\VocLib\VocLib\bin\Debug\VocLib.pdb
+C:\Users\themo\source\repos\VocLib\VocLib\obj\Debug\VocLib.csproj.AssemblyReference.cache
+C:\Users\themo\source\repos\VocLib\VocLib\obj\Debug\VocLib.csproj.CoreCompileInputs.cache
+C:\Users\themo\source\repos\VocLib\VocLib\obj\Debug\VocLib.dll
+C:\Users\themo\source\repos\VocLib\VocLib\obj\Debug\VocLib.pdb
+C:\Users\themo\source\repos\VocLib\VocLib\bin\Debug\Dapper.dll
+C:\Users\themo\source\repos\VocLib\VocLib\bin\Debug\Dapper.xml
+C:\Users\themo\source\repos\VocLib\VocLib\obj\Debug\VocLib.csproj.CopyComplete
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\bin\Debug\VocLib.dll
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\bin\Debug\VocLib.pdb
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\bin\Debug\Dapper.dll
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\bin\Debug\Dapper.xml
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\obj\Debug\VocLib.csproj.AssemblyReference.cache
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\obj\Debug\VocLib.csproj.CoreCompileInputs.cache
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\obj\Debug\VocLib.csproj.CopyComplete
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\obj\Debug\VocLib.dll
+C:\Users\themo\Desktop\Arthur PEETERS - PROJET FINAL\Arthur PEETERS - PROJET FINAL\VocLib\VocLib\obj\Debug\VocLib.pdb
